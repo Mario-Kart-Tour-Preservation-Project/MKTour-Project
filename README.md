@@ -21,11 +21,20 @@ The mission of the Mario Kart Tour Preservation Project is to:
 - MKTour-OfflineGame | A mod pack project for Mario Kart Tour that allows players to bypass the online requirement and access the game.
 
 # Rationale
+Why preserve a mobile game? We believe that there are 3 main reasons:
+
+## Reason 1 | Preservation of gaming history
+Mario Kart Tour was game played 
+
+## Reason 2 | The investment of players
+
+## Reason 3 | The fight for ownership
 
 # Contributing
 
 # Resources
 - [Open Letter to Nintendo](https://openletter.earth/an-open-letter-to-nintendo-preserve-mario-kart-tour-395dbdd7)
+- Discord (Coming Soon)
 
 # DMCA
 If at any point the project has violated anyone's copyright law, please send a request to:  MKTourPreservation@proton.me
