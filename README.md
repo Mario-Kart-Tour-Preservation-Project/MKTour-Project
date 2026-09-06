@@ -27,7 +27,7 @@ The mission of the Mario Kart Tour Preservation Project is to:
 - [MKTour-Documentation](https://github.com/Mario-Kart-Tour-Preservation-Project/MKTour-Documentation) | Documentation of notable tournaments, game patches, drivers, karts, gliders, tours, courses, missions, and the like.
 - MKTour-Server | A sub-project attempting to rebuild the "backend" of Mario Kart Tour.
 - MKTour-GamePreservation | A sub-project attempting to preserve the Mario Kart Tour game in collaboration with libraries and archives.
-- MKTour-OfflineGame | A mod pack project for Mario Kart Tour that allows players to bypass the online requirement and access the game.
+- [MKTour-OfflineGame](https://github.com/Mario-Kart-Tour-Preservation-Project/MKTour-OfflineGame) | A mod pack project for Mario Kart Tour that allows players to bypass the online requirement and access the game.
 
 # Rationale
 Why preserve a mobile game? We believe that there are 2 main reasons:
