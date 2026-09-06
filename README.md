@@ -51,8 +51,12 @@ I am as of writing, working by myself, and although I do have skills in terms of
 If you are able to assist with any of these roles, please contact me at: MKTourPreservation@proton.me
 
 # Resources
-- [Open Letter to Nintendo](https://openletter.earth/an-open-letter-to-nintendo-preserve-mario-kart-tour-395dbdd7)
+## Socials
 - Discord (Coming Soon)
+- [YouTube](https://www.youtube.com/@MKTourPreservation)
+
+## Community
+- [Open Letter to Nintendo](https://openletter.earth/an-open-letter-to-nintendo-preserve-mario-kart-tour-395dbdd7)
 
 # DMCA
 If at any point the project has violated anyone's copyright law, please send a request to:  MKTourPreservation@proton.me
