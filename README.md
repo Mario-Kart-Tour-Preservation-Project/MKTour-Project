@@ -52,7 +52,7 @@ If you are able to assist with any of these roles, please contact me at: MKTourP
 
 # Resources
 ## Socials
-- Discord (Coming Soon)
+- [Discord](https://discord.gg/NYFX97ugZz)
 - [YouTube](https://www.youtube.com/@MKTourPreservation)
 
 ## Community
