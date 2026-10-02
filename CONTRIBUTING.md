@@ -31,8 +31,8 @@ Golden Rule: Preserve things as close to their original form as possible.
 - Spread the word of the project
 - Contribute code and documentation to any of the repositories
 
-If you're not familiar with [GitHub](https://docs.github.com/en/get-started), click here.
-If you're not familiar with [Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord), click here.
+If you're not familiar with GitHub, [click here](https://docs.github.com/en/get-started)
+If you're not familiar with Discord, [click here](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord)
 
 # Piracy Notice
 Piracy is a crime! This project does not and will never support or condone piracy or the violation of copyright in any fashion!
