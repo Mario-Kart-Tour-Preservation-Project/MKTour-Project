@@ -54,6 +54,36 @@ If at any point the project has violated anyone's copyright law, please send a r
 In your subject, please include: [COPYRIGHT ISSUE] and we will address the issue promptly. 
 
 # Licenses & Copyright
+
+[You can access the full license terms here.
+](https://github.com/Mario-Kart-Tour-Preservation-Project/MKTour-Project/blob/main/LICENSE)
+
+## Nintendo Intellectual Property Notice
 **Mario Kart Tour, Mario Kart, Super Mario, Mario, and all related characters, names, trademarks, logos, artwork, and other intellectual property are the property of Nintendo Co., Ltd. This project is an independent fan preservation effort and is not affiliated with, endorsed by, sponsored by, or connected to Nintendo.**
 
-Right now, I am still attempting to setup this project. So no license has been decided on as of yet. Once the direction of the project is decided, a license will be picked that fits the goals of the project.
+## Copyright notice for contributions made before a license was approved.
+    Copyright (C) 2026 Mario Kart Tour Preservation Project Contributors
+
+    Certain existing contributions to this project have not yet been authorized for distribution or 
+    licensing by their respective copyright holders.
+
+    No permission to copy, distribute, modify, or sublicense these contributions is granted by this notice. 
+    Their inclusion in the repository does not constitute authorization for their distribution or use.
+
+## Code and associated documentation
+NOTICE! This license is NOT in effect yet, but is the staged license for the project.
+
+    Copyright (C) 2026  Mario Kart Tour Preservation Project
+
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; version 2 only.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License along
+    with this program; if not, write to the Free Software Foundation, Inc.,
+    51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
