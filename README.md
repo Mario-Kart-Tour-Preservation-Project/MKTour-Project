@@ -71,9 +71,8 @@ In your subject, please include: [COPYRIGHT ISSUE] and we will address the issue
     Their inclusion in the repository does not constitute authorization for their distribution or use.
 
 ## Code and associated documentation
-NOTICE! This license is NOT in effect yet, but is the staged license for the project.
 
-    Copyright (C) 2026  Mario Kart Tour Preservation Project
+    Copyright (C) 2026  Mario Kart Tour Preservation Project Contributors
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
