@@ -46,8 +46,9 @@ This is our official piracy notice, and it's included here as it is important. P
 - Links to external sites that host prohibited material
 
 # Intellectual Property and Licensing
-On this note, the project as of writing does not have a license. Until a project license is formally adopted, contributors should not assume that contributions are automatically licensed for unrestricted redistribution or reuse. The project will establish a license and contribution terms before relying on contributions as broadly reusable project material. Once a license is selected, the project will establish how existing contributions will be handled and will communicate those terms to contributors.     
-As for usage of other materials, contributors are responsible for ensuring that they have the necessary rights or other legal basis to submit material to the project. When in doubt, consult the project maintainers before submitting it. Credit others wherever possible.
+When you contribute code and that code's associated documentation, you retain full copyright over that code. However, you also must agree to license it under the GNU General Public License, Version 2 only. [See the LICENSE file for the full text.](https://github.com/Mario-Kart-Tour-Preservation-Project/MKTour-Project/blob/main/LICENSE)
+
+For all other contributions, a license has not been decided as of yet, but will be soon. Any contribution you make that does not fall under "code and that code's associated documentation" will remain under your copyright. However, by contributing, you grant the preservation project the right to host and display your contribution. All other rights will remain with you. We would encourage you to release your contribution under the license chosen by the project when that time arises, but that will be under your discression.
 
 The project's license applies only to material for which the project or its contributors hold the necessary rights. It does not grant permission to use Nintendo's trademarks, copyrighted game assets, music, artwork, or other third-party material.
 
