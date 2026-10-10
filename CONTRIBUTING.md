@@ -24,7 +24,7 @@ Golden Rule: Preserve things as close to their original form as possible.
 
 
 # How to contribute!
-- It's not up yet, but we will soon have a mission board that will host various "missions" you can tackle
+- Visit the tasks board!
 - Check out the issues pages on each repository
 - Use the Wayback Machine to archive webpages, interviews, and other historical documents
 - Boost our Discord Server
