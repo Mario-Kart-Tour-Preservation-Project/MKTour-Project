@@ -38,7 +38,8 @@ Mario Kart Tour is a game that is part of the storied history of the Mario Kart 
 Mario Kart Tour was a game downloaded to over [200 million devices.](https://web.archive.org/web/20260801030347/https://sensortower.com/blog/mario-kart-tour-200-million-downloads). Which could lead one to believe that quite a few people played this game. Even towards the end, there was a smaller, but dedicated fanbase that followed the game, with even a [competitive scene building around it.](https://web.archive.org/web/20260905182240/https://mariokarttour.net/) These players have spent both time and money into fleshing out this game. Whether that was in ranking up through Mario Kart Central, the built in multiplayer, completing tours, purchasing characters and carts, or even the Gold Pass subscription. However, once the game is gone, all of that time and money will have gone into nothing. We want to make it so that these dedicated players will still be able to engage with one of their favorite games, and to continue to be able to compete and refine their skills.
 
 # Contributing
-[Please see our contributor guidelines.](https://github.com/Mario-Kart-Tour-Preservation-Project/MKTour-Project?tab=contributing-ov-file#)
+- [Please see our contributor guidelines before you start!](https://github.com/Mario-Kart-Tour-Preservation-Project/MKTour-Project?tab=contributing-ov-file#)
+- [Next, you can take a look at our task board!](https://github.com/Mario-Kart-Tour-Preservation-Project/MKTour-Project/blob/main/TASKS.md)
 
 # Resources
 ## Socials
