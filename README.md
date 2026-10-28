@@ -6,7 +6,9 @@ Mario Kart Tour, Mario Kart, Super Mario, Mario, and all related characters, nam
 
 **Piracy Notice**
 
-Piracy is a crime! This project does not and will never support or condone piracy or the violation of copyright in any fashion! This project will never distribute .ipa or .apk files! Please do not ask for them in any channel relating to this project!
+The Mario Kart Tour Preservation Project respects the intellectual property rights of all. The project does not authorize or knowingly facilitate the unauthorized distribution of copyrighted game files, assets, or other protected material.
+
+Please do not upload assets, .IPA or .APK files, or other items that could be problematic. Please do not ask for these items in any channel relating to the project.
 
 ## About
 
@@ -24,9 +26,9 @@ The mission of the Mario Kart Tour Preservation Project is to:
 # Repositories
 - [MKTour-Project](https://github.com/Mario-Kart-Tour-Preservation-Project/MKTour-Project/) | (Your here) This is the home of the project and the main location for details, news, and administration.
 - [MKTour-Documentation](https://github.com/Mario-Kart-Tour-Preservation-Project/MKTour-Documentation) | Documentation of notable tournaments, game patches, drivers, karts, gliders, tours, courses, missions, and the like.
-- [MKTour-Server](https://github.com/Mario-Kart-Tour-Preservation-Project/MKTour-Server) | A sub-project attempting to rebuild the "backend" of Mario Kart Tour.
+- [MKTour-Server](https://github.com/Mario-Kart-Tour-Preservation-Project/MKTour-Server) | A sub-project attempting to document how the Content Delivery Network for Mario Kart Tour functions.
 - [MKTour-GamePreservation](https://github.com/Mario-Kart-Tour-Preservation-Project/MKTour-GamePreservation) | A sub-project attempting to preserve the Mario Kart Tour game in collaboration with libraries and archives.
-- [MKTour-OfflineGame](https://github.com/Mario-Kart-Tour-Preservation-Project/MKTour-OfflineGame) | A mod pack project for Mario Kart Tour that allows players to bypass the online requirement and access the game.
+- [MKTour-OfflineGame](https://github.com/Mario-Kart-Tour-Preservation-Project/MKTour-OfflineGame) | A sub-project to reverse engineer Mario Kart Tour and explain it's inner workings for analysis and future developers.
 
 # Rationale
 Why preserve a mobile game? We believe that there are 2 main reasons:
@@ -42,23 +44,24 @@ Mario Kart Tour was a game downloaded to over [200 million devices.](https://web
 - [Next, you can take a look at our task board!](https://github.com/Mario-Kart-Tour-Preservation-Project/MKTour-Project/blob/main/TASKS.md)
 
 # Resources
+## Important Documents
+- [License](https://github.com/Mario-Kart-Tour-Preservation-Project/MKTour-Project/blob/main/LICENSE)
+- [Tasks Board](https://github.com/Mario-Kart-Tour-Preservation-Project/MKTour-Project/blob/main/TASKS.md)
+- [DMCA Process](https://github.com/Mario-Kart-Tour-Preservation-Project/MKTour-Project/blob/main/DMCA)
+
 ## Socials
 - [Discord](https://discord.gg/NYFX97ugZz)
 - [YouTube](https://www.youtube.com/@MKTourPreservation)
 
 ## Community (Not affiliated)
-These are community links that the Preservation Project feels persons may find useful, but are not officially supported or affiliated by or with the preservation project. The preservation project makes no guarantees to the safety or legality of these community sites and servers.
-- [Nintendo's Piracy Notice](https://en-americas-support.nintendo.com/app/answers/detail/a_id/55888/~/intellectual-property-%26-piracy-faq)
+These are community links that the Preservation Project feels persons may find useful, but are not officially supported or affiliated by or with the preservation project. While every effort has been made to investigate community links for quality and safety, the project is not responsible for content hosted on these community platforms.
 - [Open Letter to Nintendo](https://openletter.earth/an-open-letter-to-nintendo-preserve-mario-kart-tour-395dbdd7)
-- [Mario Kart Tour Community Discord](https://discord.gg/qk6P2mvp5U)
 - [Mario Kart Central - Mario Kart Tour Discord](https://discord.gg/H3Nsdcn)
-- GooglyBlox's MKT (Offline Modpack) | Currently Unavailable
-- MKTKV (Offline Modpack) | Currently Unavailable
-- [DokiTour (Online Modpack)](https://discord.gg/qk6P2mvp5U)
-- [Mario Kart ReTour (Online Modpack)](https://discord.gg/HZHUHrHpd3)
+
 # DMCA
-If at any point the project has violated anyone's copyright law, please send a request to:  MKTourPreservation@proton.me
-In your subject, please include: [COPYRIGHT ISSUE] and we will address the issue promptly. 
+This project respects the Intellectual Property of all, in particular, we have provided a method for submitting lawful DMCA takedown notices and handling counter-notices. In addition, if we should find that the copyright rights for assets owned by the project have been redistributed unlawfully, we will act accordingly.
+
+[You can access the full license terms here.](https://github.com/Mario-Kart-Tour-Preservation-Project/MKTour-Project/blob/main/DMCA)
 
 # Licenses & Copyright
 
@@ -70,17 +73,21 @@ If a specific file has a license shown different than the terms expressed here, 
 ## Nintendo Intellectual Property Notice
 **Mario Kart Tour, Mario Kart, Super Mario, Mario, and all related characters, names, trademarks, logos, artwork, and other intellectual property are the property of Nintendo Co., Ltd. This project is an independent fan preservation effort and is not affiliated with, endorsed by, sponsored by, or connected to Nintendo.**
 
+- [Nintendo's Intellectual Property Notice](https://en-americas-support.nintendo.com/app/answers/detail/a_id/55888/~/intellectual-property-%26-piracy-faq)
+
 ## Copyright notice for contributions made before a license was approved.
     Copyright (C) 2026 Mario Kart Tour Preservation Project Contributors
 
-    Certain existing contributions to this project have not yet been authorized for distribution or 
-    licensing by their respective copyright holders.
+    Contributions created before the dates specified in the project's license terms that have not received
+    a license amendment have only received permission to be displayed in the repository.
 
     No permission to copy, distribute, modify, or sublicense these contributions is granted by this notice. 
     Their inclusion in the repository does not constitute authorization for their distribution or use.
 
-## Videos, assets not under fair use, and general documentation
-    This work's videos, assets not under fair use, and general documentation are licensed under 
+    To view the full license terms, please see the LICENSE file.
+
+## Videos, assets, and general documentation
+    This work's videos, assets, and general documentation are licensed under 
     Creative Commons Attribution-ShareAlike 4.0 International.
     To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/ or see the LICENSE file.
 
@@ -88,17 +95,17 @@ If a specific file has a license shown different than the terms expressed here, 
 
     Copyright (C) 2026  Mario Kart Tour Preservation Project Contributors
 
-    This program is free software; you can redistribute it and/or modify
+    This project is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation; version 2 only.
 
-    This program is distributed in the hope that it will be useful,
+    This project is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License along
-    with this program; if not, write to the Free Software Foundation, Inc.,
+    with this project; if not, write to the Free Software Foundation, Inc.,
     51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 
     To view a copy of this license, view the LICENSE file.
